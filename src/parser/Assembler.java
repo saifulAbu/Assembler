@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  * @author Saif
  */
 public class Assembler {
-    public static String fileName = "Rect";
+    public static String fileName = "prog";
     private SymbolTable symbolTable;
     public static void main(String args[]){
         Assembler assembler = new Assembler();
